@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Talk to me about Video Games, Codes, Star Wars, dogs, or theater. Waiting for my upgrade to 5G.
+
 <!--
 **garotogordo/garotogordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
