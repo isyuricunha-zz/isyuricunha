@@ -4,7 +4,7 @@ Fale comigo sobre video games, código, banco de dados, star wars, cachorros, ou
 
 Veja meus status do GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotogordo&hide=contribs,prs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotogordo&hide=contribs,prs&show_icons=true&theme=dracula&show_owner=true)
 
 
 <!--
