@@ -6,6 +6,9 @@ Veja meus status do GitHub:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotogordo&hide=contribs,prs&show_icons=true&theme=dracula&show_owner=true)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+
+
 
 <!--
 **garotogordo/garotogordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
