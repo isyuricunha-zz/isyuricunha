@@ -6,7 +6,7 @@ Veja meus status do GitHub:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotogordo&show_icons=true&theme=dracula&show_owner=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garotogordo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garotogordo&layout=compact&theme=dracula)]
 
 
 
