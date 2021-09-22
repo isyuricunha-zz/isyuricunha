@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Fale comigo sobre video games, código, banco de dados, star wars, cachorros, ou futebol americano. Esperando meu upgrade para o 5G.
 
