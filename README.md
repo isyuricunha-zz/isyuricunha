@@ -6,7 +6,7 @@ Veja meus status do GitHub:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotogordo&hide=contribs,prs&show_icons=true&theme=dracula&show_owner=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garotogordo&theme=dracula)
 
 
 
