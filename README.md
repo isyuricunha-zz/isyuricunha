@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garotogordo&layout=compact&theme=dracula)]
 
-<a target="_blank" rel="noopener noreferrer" href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garotogordo&layout=compact&theme=dracula)]"><img src="https://camo.githubusercontent.com/274ab9fe391aafe521c082c126a44456e51852bb2f3b25c735f896aa6448e257/687474703a2f2f732e3463646e2e6f72672f696d6167652f7469746c652f3130352e676966" data-canonical-src="http://s.4cdn.org/image/title/105.gif" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garotogordo&layout=compact&theme=dracula)]"><img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garotogordo&layout=compact&theme=dracula)]" data-canonical-src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garotogordo&layout=compact&theme=dracula)]" style="max-width: 100%;"></a>
 
 <!--
 **garotogordo/garotogordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
