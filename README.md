@@ -1,4 +1,4 @@
-<img align="right" src="arquivos-para-download/mongo-db-updating-data-code-snippet.png" width="100"/>
+<img align="right" src="arquivos-para-download/mongo-db-updating-data-code-snippet.png" width="500"/>
 
 ### <h2 align="center">Coé 👋</h2>
 
@@ -17,6 +17,7 @@ A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre,
 ### <h2 align="center">Skills 📋</h2>
 
 [![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=MicrosoftSQLServer&style=flat)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+[![microsoftazure](https://img.shields.io/badge/microsoftazure-blue?style=for-the-badge&logo=microsoftazure&style=flat)](https://azure.microsoft.com/pt-br/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-navy?style=for-the-badge&logo=PostgreSQL&style=flat)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&style=plastic)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&style=plastic)](https://www.python.org/)
