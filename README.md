@@ -33,7 +33,7 @@ A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre,
 [![Twitch Badge](https://img.shields.io/badge/@garotogordo-2D425E?style=flat&labelColor=2D425E&logo=twitch&logoColor=white&link=https://twitch.com/garotogordo)](https://twitch.com/garotogordo)
 [![Twitter Badge](https://img.shields.io/badge/@garotogord0-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/garotogord0)](https://twitter.com/garotogord0)
 [![Instagram Badge](https://img.shields.io/badge/@garotogordo-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/garotogordo)](https://instagram.com/garotogordo)
-[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Vargas-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garotogordo/)](https://www.linkedin.com/in/ycdp/) 
+[![Linkedin Badge](https://img.shields.io/badge/Yuri%20Cunha-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garotogordo/)](https://www.linkedin.com/in/ycdp/) 
 [![Personal Site Badge](https://img.shields.io/badge/garotogordo-2D425E?style=flat&logo=garotogordo&logoColor=white)](https://garotogordo.github.io/garotogordo/) 
 
 ![garotogordo github stats](https://github-readme-stats.vercel.app/api?username=garotogordo&show_icons=true&theme=dracula&show_owner=true)
