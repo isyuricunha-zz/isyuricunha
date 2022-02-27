@@ -17,7 +17,7 @@ A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre,
 
 ### <h2 align="center">Skills 📋</h2>
 
-<img align="right" src="arquivos-para-download/sql-dialog.png" width="180"/>
+<img align="right" src="arquivos-para-download/GenerateOneObject.gif" width="180"/>
 
 [![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=MicrosoftSQLServer&style=flat)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [![microsoftazure](https://img.shields.io/badge/microsoftazure-blue?style=for-the-badge&logo=microsoftazure&style=flat)](https://azure.microsoft.com/pt-br/)
