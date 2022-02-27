@@ -1,4 +1,4 @@
-<img align="right" src="arquivos-para-download/mongo-db-updating-data-code-snippet.png" width="300"/>
+<img align="right" src="arquivos-para-download/mongo-db-updating-data-code-snippet.png" width="100"/>
 
 ### <h2 align="center">Coé 👋</h2>
 
