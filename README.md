@@ -1,6 +1,7 @@
-<img align="right" src="arquivos-para-download/mongo-db-updating-data-code-snippet.png" width="200"/>
 
 ### <h2 align="center">Coé 👋</h2>
+
+<img align="right" src="arquivos-para-download/database.png" width="180"/>
 
 Chamo-me Yuri Cunha, tenho 24 anos, moro em S. B. Campo — SP, sou estudante de Banco de Dados e atualmente sou Database Administrador Jr. e Backend Jr.<br><br>
 A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre, mas às vezes também trabalho durante a semana. Se eu não responder ao seu problema, geralmente é porque estou ocupado no momento ou estou aproveitando um pouco do meu tempo livre. Tentarei me manter atualizado em todos os lugares que puder, embora não responda imediatamente.<br><br>
@@ -15,6 +16,8 @@ A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre,
 
 
 ### <h2 align="center">Skills 📋</h2>
+
+<img align="right" src="arquivos-para-download/programming.png" width="180"/>
 
 [![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=MicrosoftSQLServer&style=flat)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [![microsoftazure](https://img.shields.io/badge/microsoftazure-blue?style=for-the-badge&logo=microsoftazure&style=flat)](https://azure.microsoft.com/pt-br/)
