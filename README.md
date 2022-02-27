@@ -25,7 +25,7 @@ A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre,
 [![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&style=plastic)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&style=plastic)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-dimgrey?style=for-the-badge&logo=R&style=plastic)](https://www.r-project.org/)
-[![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=PHP&style=plastic)](https://www.php.net/)<br><br>
+[![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=PHP&style=plastic)](https://www.php.net/)<br><br><br><br>
 
 
 ### <h2 align="center">Contatos 📧</h2>
