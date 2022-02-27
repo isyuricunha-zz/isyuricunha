@@ -16,12 +16,12 @@ A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre,
 
 ### <h2 align="center">Skills 📋</h2>
 
-[![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=MicrosoftSQLServer&style=flat)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-navy?style=for-the-badge&logo=PostgreSQL&style=flat)]()
-[![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&style=plastic)]()
-[![Python](https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&style=plastic)]()
-[![R](https://img.shields.io/badge/R-dimgrey?style=for-the-badge&logo=R&style=plastic)]()
-[![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=PHP&style=plastic)]()<br><br>
+[![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=MicrosoftSQLServer&style=flat)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-navy?style=for-the-badge&logo=PostgreSQL&style=flat)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&style=plastic)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&style=plastic)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-dimgrey?style=for-the-badge&logo=R&style=plastic)](https://www.r-project.org/)
+[![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=PHP&style=plastic)](https://www.php.net/)<br><br>
 
 
 ### <h2 align="center">Contatos 📧</h2>
