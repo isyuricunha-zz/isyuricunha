@@ -20,11 +20,12 @@ A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre,
 <img align="right" src="images/database3.gif" width="180"/>
 
 [![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=MicrosoftSQLServer&style=flat)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
-[![microsoftazure](https://img.shields.io/badge/microsoftazure-blue?style=for-the-badge&logo=microsoftazure&style=flat)](https://azure.microsoft.com/pt-br/)
+[![Microsoft Azure](https://img.shields.io/badge/microsoftazure-blue?style=for-the-badge&logo=microsoftazure&style=flat)](https://azure.microsoft.com/pt-br/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-navy?style=for-the-badge&logo=PostgreSQL&style=flat)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&style=plastic)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&style=plastic)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-dimgrey?style=for-the-badge&logo=R&style=plastic)](https://www.r-project.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=R&style=plastic)](https://www.ruby-lang.org/pt/)
 [![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=PHP&style=plastic)](https://www.php.net/)<br><br><br><br>
 
 
