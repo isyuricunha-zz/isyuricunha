@@ -4,7 +4,9 @@
 <img align="right" src="images/database1.gif" width="180"/>
 
 Chamo-me Yuri Cunha, tenho 24 anos, moro em S. B. Campo — SP, sou estudante de Banco de Dados e atualmente sou Database Administrador Jr. e Backend Jr.<br><br>
-A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre, mas às vezes também trabalho durante a semana. Se eu não responder ao seu problema, geralmente é porque estou ocupado no momento ou estou aproveitando um pouco do meu tempo livre. Tentarei me manter atualizado em todos os lugares que puder, embora não responda imediatamente.<br><br>
+A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre, mas às vezes também trabalho durante a semana. Se eu não responder ao seu problema, geralmente é porque estou ocupado no momento ou estou aproveitando um pouco do meu tempo livre. Tentarei me manter atualizado em todos os lugares que puder, embora não responda imediatamente.<br>
+
+A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.<br><br>
 
 ### <h2 align="center">Curiosidades ✨</h2>
 
