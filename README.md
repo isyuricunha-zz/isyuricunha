@@ -1,4 +1,3 @@
-
 ### <h2 align="center">Coé 👋</h2>
 
 <img align="right" src="images/database1.gif" width="180"/>
@@ -16,7 +15,6 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 — Às vezes faço trocadilhos/piadas ruins.<br>
 — Comida preferida: macarronada e carne moída.<br><br>
 
-
 ### <h2 align="center">Skills 📋</h2>
 
 <img align="right" src="images/database3.gif" width="180"/>
@@ -30,18 +28,14 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 [![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=Ruby&style=plastic)](https://www.ruby-lang.org/pt/)
 [![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=PHP&style=plastic)](https://www.php.net/)<br><br><br><br>
 
-
 ### <h2 align="center">Contatos 📧</h2>
 
 [![Twitch Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=twitch&logoColor=white&link=https://twitch.com/isyuricunha)](https://twitch.com/isyuricunha)
 [![Twitter Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/isyuricunha)](https://twitter.com/isyuricunha)
 [![Instagram Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/isyuricunha)](https://instagram.com/isyuricunha)
-[![Linkedin Badge](https://img.shields.io/badge/Yuri%20Cunha-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isyuricunha/)](https://www.linkedin.com/in/isyuricunha/) 
-[![Personal Site Badge](https://img.shields.io/badge/isyuricunha-2D425E?style=flat&logo=isyuricunha&logoColor=white)](https://isyuricunha.github.io/isyuricunha/) 
+[![Linkedin Badge](https://img.shields.io/badge/Yuri%20Cunha-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isyuricunha/)](https://www.linkedin.com/in/isyuricunha/)
+[![Personal Site Badge](https://img.shields.io/badge/isyuricunha-2D425E?style=flat&logo=Website&logoColor=white)](https://garotogordo.codes/)
 
 ![isyuricunha github stats](https://github-readme-stats.vercel.app/api?username=isyuricunha&show_icons=true&theme=dracula&show_owner=true)
-
-
-
 
 <!-- [![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/fNgjj2mU)](https://discord.gg/fNgjj2mU) --->
