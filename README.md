@@ -1,6 +1,6 @@
 ### <h2 align="center">Coé 👋</h2>
 
-<img align="right" src="images/database1.gif" width="180"/>
+<img align="right" src="https://github.com/isyuricunha/isyuricunha/raw/5cb4b213f667fff226839d2736c1d7c1e31351b1/images/database1.gif" width="180"/>
 
 Me chamo Yuri Cunha, tenho 24 anos, moro em S. B. Campo — SP, sou estudante de Banco de Dados e atualmente sou Database Administrador Jr. e Backend Jr.<br><br>
 A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre, mas às vezes também trabalho durante a semana. Se eu não responder ao seu problema, geralmente é porque estou ocupado no momento ou estou aproveitando um pouco do meu tempo livre. Tentarei me manter atualizado em todos os lugares que puder, embora não responda imediatamente.<br>
@@ -17,7 +17,7 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 
 ### <h2 align="center">Skills 📋</h2>
 
-<img align="right" src="images/database3.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="280"/>
 
 [![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=MicrosoftSQLServer&style=flat)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure&style=flat)](https://azure.microsoft.com/pt-br/)
