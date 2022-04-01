@@ -5,6 +5,8 @@
 Me chamo Yuri Cunha, tenho 24 anos, moro em São Paulo, sou estudante de Banco de Dados e atualmente sou Database Administrador & Programador Backend<br><br>
 A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre, mas às vezes também trabalho durante a semana. Se eu não responder ao seu problema, geralmente é porque estou ocupado no momento ou estou aproveitando um pouco do meu tempo livre. Tentarei me manter atualizado em todos os lugares que puder, embora não responda imediatamente.<br>
 
+[Portfolio](https://www.garotogordo.codes)
+
 Eu gasto todo o meu tempo livre fazendo projetos/sites/softwares/query's open-source.<br>
 
 MVP SQL Server 2019.<br>
