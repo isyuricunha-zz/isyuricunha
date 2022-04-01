@@ -21,7 +21,7 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 
 ### <h2 align="center">Skills 📋</h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="280"/>
+<img align="right" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="220"/>
 
 [![SQLServer](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=MicrosoftSQLServer&style=flat)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure&style=flat)](https://azure.microsoft.com/pt-br/)
