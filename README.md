@@ -41,9 +41,9 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 [![Personal Site Badge](https://img.shields.io/badge/isyuricunha-2D425E?style=flat&logo=Website&logoColor=white)](https://garotogordo.codes/)<br><br><br><br>
 
 ### <h2 align="center">Sites 🌐</h2>
-[Antigo Portfolio](https://projeto-portfolio.garotogordo.codes/)
-[Unes Page](https://unes.garotogordo.codes/)
-[Bluise Page](https://bluise.garotogordo.codes/)
+[Antigo Portfolio](https://projeto-portfolio.garotogordo.codes/)<br>
+[Unes Page](https://unes.garotogordo.codes/)<br>
+[Bluise Page](https://bluise.garotogordo.codes/)<br>
 
 
 ![isyuricunha github stats](https://github-readme-stats.vercel.app/api?username=isyuricunha&show_icons=true&theme=dracula&show_owner=true)
