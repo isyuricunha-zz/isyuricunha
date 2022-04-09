@@ -40,7 +40,13 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 [![Twitter Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/isyuricunha)](https://twitter.com/isyuricunha)
 [![Instagram Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/isyuricunha)](https://instagram.com/isyuricunha)
 [![Linkedin Badge](https://img.shields.io/badge/Yuri%20Cunha-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isyuricunha/)](https://www.linkedin.com/in/isyuricunha/)
-[![Personal Site Badge](https://img.shields.io/badge/isyuricunha-2D425E?style=flat&logo=Website&logoColor=white)](https://garotogordo.codes/)
+[![Personal Site Badge](https://img.shields.io/badge/isyuricunha-2D425E?style=flat&logo=Website&logoColor=white)](https://garotogordo.codes/)<br><br><br><br>
+
+### <h2 align="center">Sites 🌐</h2>
+[Antigo Portfolio](https://projeto-portfolio.garotogordo.codes/)
+[Unes Page](https://unes.garotogordo.codes/)
+[Bluise Page](https://bluise.garotogordo.codes/)
+
 
 ![isyuricunha github stats](https://github-readme-stats.vercel.app/api?username=isyuricunha&show_icons=true&theme=dracula&show_owner=true)
 
