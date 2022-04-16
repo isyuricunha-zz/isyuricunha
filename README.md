@@ -17,7 +17,7 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 — Gosto de ler livros e jogar futebol americano.<br>
 — Até o momento sei cuidar de “prantas”.<br>
 — Às vezes faço trocadilhos/piadas ruins.<br>
-— Comida preferida: macarronada e carne moída.<br><br>
+— Comida preferida: macarronada e carne moída.<br><br><br>
 
 ### <h2 align="center">Skills 📋</h2>
 
