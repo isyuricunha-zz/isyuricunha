@@ -7,8 +7,6 @@ A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre,
 
 Eu gasto todo o meu tempo livre fazendo projetos/sites/softwares/query's open-source.<br>
 
-MVP SQL Server 2019.<br>
-
 A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.<br><br>
 
 ### <h2 align="center">Curiosidades ✨</h2>
