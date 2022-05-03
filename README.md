@@ -40,8 +40,8 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 
 ### <h2 align="center">Sites 🌐</h2>
 
-[Antigo Portfolio](https://projeto-portfolio.garotogordo.codes/)<br>
-[Unes Page](https://unes.garotogordo.codes/)<br>
+[Antigo Portfolio](https://www.portfolio-antigo.garotogordo.codes//)<br>
+[Unes Page](https://wwww.unes.garotogordo.codes/)<br>
 [Bluise Page](https://bluise.garotogordo.codes/)<br>
 
 ![isyuricunha github stats](https://github-readme-stats.vercel.app/api?username=isyuricunha&show_icons=true&theme=dracula&show_owner=true)
