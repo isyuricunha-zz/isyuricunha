@@ -1,5 +1,10 @@
 ### <h2 align="center">Coé 👋</h2>
 
+<table align="right">
+ <tr><td><a href="#">:us: English</a></td></tr>
+ <tr><td><a href="#">:brazil: Português</a></td></tr>
+</table>
+
 <img align="right" src="https://github.com/isyuricunha/isyuricunha/raw/5cb4b213f667fff226839d2736c1d7c1e31351b1/images/database1.gif" width="180"/>
 
 Me chamo Yuri Cunha, tenho 24 anos, moro em São Paulo, sou estudante de Banco de Dados e atualmente sou Database Administrador & Programador Backend<br><br>
