@@ -1,26 +1,27 @@
 <table align="right">
- <tr><td><a href="https://github.com/isyuricunha/isyuricunha/blob/main/README-eng-us.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/isyuricunha/isyuricunha/blob/main/README.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/isyuricunha/isyuricunha/blob/main/README.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/isyuricunha/isyuricunha/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
-### <h2 align="center">Coé 👋</h2>
+### <h2 align="center">Hey 👋</h2>
 
 <img align="right" src="https://github.com/isyuricunha/isyuricunha/raw/5cb4b213f667fff226839d2736c1d7c1e31351b1/images/database1.gif" width="180"/>
 
-Me chamo Yuri Cunha, tenho 24 anos, moro em São Paulo, sou estudante de Banco de Dados e atualmente sou Database Administrador & Programador Backend<br><br>
-A maior parte do meu trabalho é feita nos finais de semana, no meu tempo livre, mas às vezes também trabalho durante a semana. Se eu não responder ao seu problema, geralmente é porque estou ocupado no momento ou estou aproveitando um pouco do meu tempo livre. Tentarei me manter atualizado em todos os lugares que puder, embora não responda imediatamente.<br>
+My name is Yuri Cunha, I'm 24 years old, I live in São Paulo, I'm a Database student and I'm currently a Database Administrator & Backend Programmer.<br><br>
 
-Eu gasto todo o meu tempo livre fazendo projetos/sites/softwares/query's open-source.<br>
+Most of my work is done on weekends, in my free time, but sometimes I also work during the week. If I don't respond to your problem, it's usually because I'm busy at the moment or I'm enjoying some of my free time. I will try to keep up to date everywhere I can, although I don't respond immediately.<br>
 
-A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.<br><br>
+I spend all my free time doing open-source projects/websites/software/query's.<br>
 
-### <h2 align="center">Curiosidades ✨</h2>
+Most of my repos are private, but the new projects will be opened.<br><br>
 
-— Sou fã de Mr. Robot e The Big Bang Theory.<br>
-— Gosto de ler livros e jogar futebol americano.<br>
-— Até o momento sei cuidar de “prantas”.<br>
-— Às vezes faço trocadilhos/piadas ruins.<br>
-— Comida preferida: macarronada e carne moída.<br><br><br>
+### <h2 align="center">Curiosities ✨</h2>
+
+— I'm a fan of Mr. Robot and The Big Bang Theory.<br>
+— I like to read books and play american football.<br>
+— So far I know how to take care of "planks".<br>
+— Sometimes I make bad puns/jokes.<br>
+— Favorite food: pasta and ground beef.<br><br><br>
 
 ### <h2 align="center">Skills 📋</h2>
 
@@ -35,7 +36,7 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 [![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=Ruby&style=plastic)](https://www.ruby-lang.org/pt/)
 [![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=PHP&style=plastic)](https://www.php.net/)<br><br><br><br>
 
-### <h2 align="center">Contato 📧</h2>
+### <h2 align="center">Contact 📧</h2>
 
 [![Twitch Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=twitch&logoColor=white&link=https://twitch.com/isyuricunha)](https://twitch.com/isyuricunha)
 [![Twitter Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/isyuricunha)](https://twitter.com/isyuricunha)
@@ -43,7 +44,7 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 [![Linkedin Badge](https://img.shields.io/badge/Yuri%20Cunha-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isyuricunha/)](https://www.linkedin.com/in/isyuricunha/)
 [![Personal Site Badge](https://img.shields.io/badge/isyuricunha-2D425E?style=flat&logo=Website&logoColor=white)](https://garotogordo.codes/)<br><br><br><br>
 
-<!-- ### <h2 align="center">Sites 🌐</h2>
+<!-- ### <h2 align="center">Websites 🌐</h2>
 
 [Antigo Portfolio](https://www.portfolio-antigo.garotogordo.codes//)<br>
 [Unes Page](https://wwww.unes.garotogordo.codes/)<br>
