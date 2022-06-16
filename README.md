@@ -35,7 +35,7 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 [![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=Ruby&style=plastic)](https://www.ruby-lang.org/pt/)
 [![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=PHP&style=plastic)](https://www.php.net/)<br><br><br><br>
 
-### <h2 align="center">Contatos 📧</h2>
+### <h2 align="center">Contato 📧</h2>
 
 [![Twitch Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=twitch&logoColor=white&link=https://twitch.com/isyuricunha)](https://twitch.com/isyuricunha)
 [![Twitter Badge](https://img.shields.io/badge/@isyuricunha-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/isyuricunha)](https://twitter.com/isyuricunha)
@@ -43,11 +43,11 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 [![Linkedin Badge](https://img.shields.io/badge/Yuri%20Cunha-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isyuricunha/)](https://www.linkedin.com/in/isyuricunha/)
 [![Personal Site Badge](https://img.shields.io/badge/isyuricunha-2D425E?style=flat&logo=Website&logoColor=white)](https://garotogordo.codes/)<br><br><br><br>
 
-### <h2 align="center">Sites 🌐</h2>
+<!-- ### <h2 align="center">Sites 🌐</h2>
 
 [Antigo Portfolio](https://www.portfolio-antigo.garotogordo.codes//)<br>
 [Unes Page](https://wwww.unes.garotogordo.codes/)<br>
-[Bluise Page](https://bluise.garotogordo.codes/)<br>
+[Bluise Page](https://bluise.garotogordo.codes/)<br> -->
 
 ![isyuricunha github stats](https://github-readme-stats.vercel.app/api?username=isyuricunha&show_icons=true&theme=dracula&show_owner=true)
 
