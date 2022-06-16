@@ -51,4 +51,12 @@ A maioria dos meus repos estão privados, mas, os novos projetos serão abertos.
 
 ![isyuricunha github stats](https://github-readme-stats.vercel.app/api?username=isyuricunha&show_icons=true&theme=dracula&show_owner=true)
 
+<details>
+<summary>Profile visitors</summary>
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/isyuricunha/count.svg">
+</div>
+</details>
+
 <!-- [![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/fNgjj2mU)](https://discord.gg/fNgjj2mU) --->
