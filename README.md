@@ -60,6 +60,5 @@ Most of my repos are private, but the new projects will be opened.<br><br>
 </div>
 </details>
 
-@github: [isyuricunha]
 
 <!-- [![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/fNgjj2mU)](https://discord.gg/fNgjj2mU) --->
