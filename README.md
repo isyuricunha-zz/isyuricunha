@@ -13,7 +13,9 @@ Most of my work is done on weekends, in my free time, but sometimes I also work 
 
 I spend all my free time doing open-source projects/websites/software/query's.<br>
 
-Most of my repos are private, but the new projects will be opened.<br><br>
+Most of my repos are private, but the new projects will be opened.<br>
+
+I'm currently focused on translating Necesse's community mods.<br><br>
 
 ### <h2 align="center">Curiosities ✨</h2>
 
@@ -59,6 +61,5 @@ Most of my repos are private, but the new projects will be opened.<br><br>
     <img alt="visitors counter" src="https://profile-counter.glitch.me/isyuricunha/count.svg">
 </div>
 </details>
-
 
 <!-- [![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/fNgjj2mU)](https://discord.gg/fNgjj2mU) --->
