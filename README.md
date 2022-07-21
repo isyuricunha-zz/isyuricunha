@@ -52,7 +52,7 @@ I'm currently focused on translating Necesse's community mods.<br><br>
 [Unes Page](https://wwww.unes.garotogordo.codes/)<br>
 [Bluise Page](https://bluise.garotogordo.codes/)<br> -->
 
-![isyuricunha github stats](https://github-readme-stats.vercel.app/api?username=isyuricunha&show_icons=true&theme=dracula&show_owner=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=isyuricunha&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
 
 <details>
 <summary>Profile visitors</summary>
