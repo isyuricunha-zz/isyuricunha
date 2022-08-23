@@ -15,7 +15,7 @@ I spend all my free time doing open-source projects/websites/software/query's.<b
 
 Most of my repos are private, but the new projects will be opened.<br>
 
-I'm currently focused on translating Necesse's community mods.<br><br>
+I'm currently focused on translating my GitHub projects to English.<br><br>
 
 ### <h2 align="center">Curiosities ✨</h2>
 
